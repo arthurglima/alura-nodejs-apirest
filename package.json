@@ -18,7 +18,10 @@
   },
   "homepage": "https://github.com/arthurglima/alura-nodejs-apirest#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "body": "^5.1.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "parser": "^0.1.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
